@@ -30,6 +30,7 @@
                             <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="M0W-rF-RaG">
                                 <frame key="frameInset" minX="15.5" height="43" maxX="16.5" maxY="9"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <items>
                                     <barButtonItem title="Previous" id="ZB4-jb-a8n">
                                         <connections>
